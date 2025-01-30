@@ -5,9 +5,9 @@ El proyecto se centra en explorar la relación entre los niveles de felicidad y 
 En este caso, te presento un archivo de nombre “A1.2 Felicidad y GDP.csv” (que podrás encontrar en la misma página de la plataforma donde descargaste esta plantilla), donde podrás encontrar el nivel de felicidad del último reporte del WHR (2022) y el GDP (2020) de los países para los que se cuenta con información. Los datos de niveles de felicidad se descargaron directamente del sitio de internet del WHR, y los datos de GDP se descargaron del sitio de internet de The World Bank.
 
 La base de datos cuenta con la siguiente información:
- “Pais”. Se describe el nombre del país.
- “Felicidad”. Un número entre 0 y 10 que describe el nivel de felicidad.
- “GDP”. Un número que describe el producto interno bruto.
+* “Pais”. Se describe el nombre del país.
+* “Felicidad”. Un número entre 0 y 10 que describe el nivel de felicidad.
+* “GDP”. Un número que describe el producto interno bruto.
 
 Este proyecto incluye los siguientes documentos:
 
